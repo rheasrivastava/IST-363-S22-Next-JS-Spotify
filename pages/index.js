@@ -22,7 +22,7 @@ export default function Home({ albums }) {
 		<Head>
 			<title>Spotify IST 363</title>
 			<link rel="icon" href="/favicon.ico" />
-			<meta name="description" content="This is a summary of my website"/>
+			<meta name="description" content="This is my Spotify website for IST 363 Spring 2022"/>
 		</Head>
 		<Showcase />
 		<NewReleases items={albums} />
